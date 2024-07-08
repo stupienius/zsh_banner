@@ -33,7 +33,6 @@ show_fortune_in_lighthouse() {
 }
 
 # Display welcome message and fortune in lighthouse
-echo "Welcome to Zsh! Happy coding!"
 echo ""
 show_fortune_in_lighthouse | lolcat
 echo ""
